@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(247, 246, 246);
+}
+
+.navbar{
+    background-color: rgb(14, 14, 119);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
